@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fproto-acbstudy\u002F_nuxt\u002Fstatic\u002F1615815918",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{app:{basePath:"\u002Fproto-acbstudy\u002F",assetsPath:"\u002Fproto-acbstudy\u002F_nuxt\u002F",cdnURL:a}}}}(null));
